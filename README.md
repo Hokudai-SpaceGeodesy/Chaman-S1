@@ -1,2 +1,2 @@
 # Chaman-S1
-Matlab M-files to perform "time-dependent inversion" based on triangular dislocation elements.
+Matlab M-files to perform Kalman-filter-based "time-dependent inversion" using triangular dislocation elements in an elastic half space.
